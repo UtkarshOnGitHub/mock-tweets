@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "avatar": "https://pravatar.cc/",
+      "full_name": "Utkarsh",
+      "email": "kira@gmail.com",
+      "password": "123"
+    }
+  ],
+  "post":[
+    {
+        "id":1,
+        "title":"I Love Music",
+        "img_url":"https://giphy.com/gifs/hallmarkecards-cute-hallmark-shoebox-BzyTuYCmvSORqs1ABM",
+        "post_by":"kira@gmail.com"
+    }
+  ]
+}
